@@ -1,4 +1,8 @@
-![Início](https://github.com/user-attachments/assets/e5c8e133-32c0-41b5-abea-c89cb68b4620)
+![Início](https://github.com/user-attachments/assets/164a578e-7050-4084-a45c-1b93e819c9fc)
+![Carregamento](https://github.com/user-attachments/assets/80798ffa-dbd1-4e54-9a2a-77feed8d9658)
+![Tabelas](https://github.com/user-attachments/assets/b232be48-ef23-42c5-8ff1-7caff5b79288)
+![Gráficos](https://github.com/user-attachments/assets/302a7662-75be-4783-8c02-ecabdd08ac8f)
+![Documentos](https://github.com/user-attachments/assets/afca7815-142e-4e90-9251-ac14df730e29c)
 
 
 # Observatório do Mercado de Trabalho - SINE
