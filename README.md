@@ -1,3 +1,6 @@
+![Início](https://github.com/user-attachments/assets/e5c8e133-32c0-41b5-abea-c89cb68b4620)
+
+
 # Observatório do Mercado de Trabalho - SINE
 
 Este projeto faz parte de um ecossistema de dados desenvolvido para automatizar a coleta, o tratamento e a visualização de indicadores de emprego e renda (RAIS/CAGED).
@@ -11,8 +14,8 @@ Diferente de sistemas convencionais, o Observatório foi projetado para lidar co
 
 ## 🛠️ Foco deste Repositório ([Frontend / Backend / FastAPI])
 
-*Nesta seção, descreva a parte específica, por exemplo:*
-> **Frontend:** Implementado com **Next.js 14**, utiliza **Tailwind CSS** e **ShadCN UI** para uma interface responsiva e **TanStack Query** para gerenciamento de estado e cache de dados.
+
+> **Frontend:** Implementado com **Vite**, utiliza **Tailwind CSS** e **ShadCN UI** para uma interface responsiva.
 
 ## 🚀 Destaques de Engenharia
 
