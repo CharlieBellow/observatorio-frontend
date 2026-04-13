@@ -19,7 +19,13 @@ Diferente de sistemas convencionais, o Observatório foi projetado para lidar co
 ## 🛠️ Foco deste Repositório ([Frontend / Backend / FastAPI])
 
 
-> **Frontend:** Implementado com **Vite**, utiliza **Tailwind CSS** e **ShadCN UI** para uma interface responsiva.
+> **Frontend: (Vite + React) - Foco: Performance e Interface Reativa.** Implementado com Vite, garantindo um ambiente de desenvolvimento ultra-rápido e um bundle final otimizado. A interface utiliza Tailwind CSS para estilização utilitária e ShadCN UI para garantir componentes acessíveis e consistentes. O foco principal foi a criação de uma experiência fluida para a visualização de grandes volumes de dados analíticos.
+
+> **FastAPI: (Ambiente de Produção)- Foco: Alta Disponibilidade e Deploy Moderno** Utilizado para expor endpoints de alta performance, simulando um ambiente de produção real com deploy na Vercel. Esta camada atua como a ponte ágil para o consumo de dados, garantindo que o frontend receba informações tipadas e validadas em milissegundos, demonstrando competência em infraestrutura e CI/CD.
+
+> **Backend: (Django + Pandas) - Foco: Engenharia de Dados e Lógica de Negócio.** O "core" de processamento de dados utiliza Django (Python) integrado à biblioteca Pandas. Esta estrutura é responsável por iterar, limpar e filtrar bases governamentais massivas, garantindo a integridade dos dados antes da persistência no banco de dados. É aqui que a complexidade técnica se transforma em informação estruturada e pronta para o negócio.
+
+
 
 ## 🚀 Destaques de Engenharia
 
@@ -34,3 +40,8 @@ Diferente de sistemas convencionais, o Observatório foi projetado para lidar co
 
 ---
 **Nota:** Este projeto demonstra minha capacidade de gerenciar o ciclo de vida completo de um produto de dados (End-to-End).
+
+
+# Rodar o projeto:
+pip install -r requirements.txt
+uvicorn api.index:app --reload
